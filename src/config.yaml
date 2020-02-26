@@ -11,9 +11,8 @@ options:
       cloud:<series>-<openstack-release>/updates
       cloud:<series>-<openstack-release>/staging
       cloud:<series>-<openstack-release>/proposed
-      For series=Xenial we support cloud archives for openstack-release:
-         * Mitaka
-         * Newton
+      For series=Bionic we support cloud archives for openstack-release:
+         * Train
       NOTE: updating this setting to a source that is known to provide
       a later version of OpenStack will trigger a software upgrade.
   rabbit-user:

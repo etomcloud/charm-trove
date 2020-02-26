@@ -1,6 +1,6 @@
 name: trove
 summary: Trove provides DBaaS services for OpenStack
-maintainer: TransCirrus <support@transcirrus.com>
+maintainer: Etom Cloud <support@etom.cloud>
 description: |
  Trove is Database as a Service for OpenStack. It's designed to run entirely on OpenStack,
  with the goal of allowing users to quickly and easily utilize the features of a relational
@@ -10,8 +10,9 @@ tags:
   - database
 series:
   - xenial
-  - yakkety
-  - zesty
+  - bionic
+  - eoan
+  - trusty
 subordinate: false
 requires:
   ha:

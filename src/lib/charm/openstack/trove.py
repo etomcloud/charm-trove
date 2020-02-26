@@ -1,4 +1,4 @@
-# Copyright 2016 TransCirrus Inc.
+# Copyright 2016 Etom Cloud.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -198,6 +198,9 @@ class TroveCharm(charms_openstack.charm.HAOpenStackCharm):
             ('5', 'pike'),
             ('6', 'queens'),
             ('7', 'rocky'),
+            ('8', 'stein'),
+            ('9', 'train'),
+            ('10', 'ussuri'),
         ]),
     }
 
