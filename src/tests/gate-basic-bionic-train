@@ -15,7 +15,7 @@
 # limitations under the License.
 
 
-"""Amulet tests on a basic Trove deployment on trusty-mitaka."""
+"""Amulet tests on a basic Trove deployment on bionic-train."""
 
 from basic_deployment import TroveBasicDeployment
 

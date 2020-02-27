@@ -153,7 +153,7 @@ class TroveAdapters(charms_openstack.adapters.OpenStackAPIRelationAdapters):
 class TroveCharm(charms_openstack.charm.HAOpenStackCharm):
     service_name = name = 'trove'
 
-    release = 'mitaka'
+    release = 'train'
 
     packages = ['python-trove', 'python-troveclient', 'trove-common',
                 'trove-api', 'trove-taskmanager', 'trove-conductor']
