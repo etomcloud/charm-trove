@@ -3,4 +3,4 @@ options:
   basic:
     use_venv: True
     include_system_packages: True
-repo: https://github.com/openstack/charm-trove.git
+repo: https://github.com/etomteknoloji/charm-trove.git
